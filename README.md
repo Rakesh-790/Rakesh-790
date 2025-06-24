@@ -1,4 +1,4 @@
-![logo](https://github.com/Rakesh-790/Rakesh-790/blob/main/github-header-image.png)
+
 <h1 align="center">Welcome to my profile👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rakesh+Roshan+Behera;Java+Full+Stack+Developer+%F0%9F%94%A5;Spring+Boot+%7C+React+%7C+MySQL+%7C+Maven;APIs+%7C+Clean+Code+%7C+Debug+Like+a+Pro;Never+Stop+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
